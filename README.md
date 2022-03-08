@@ -1,10 +1,10 @@
-# TagUp Challenge
+# TagUp Coding Challenge 👨‍💻
 For TagUp's take home interview challenge
 
 ## Approach
-[/] I implemented a REST API skeleton with Flask route decorators, and specifying the accepted REST verbs with the `methods=` kwarg 
-[/] Added docstrings to standardize each function's readability and allow a new user to more easily understand the code
-[/] Dockerfile is included
+- [x] I implemented a REST API skeleton with Flask route decorators, and specifying the accepted REST verbs with the `methods=` kwarg 
+- [x] Added docstrings to standardize each function's readability and allow a new user to more easily understand the code
+- [x] Dockerfile is included
 
 Details from the TagUp challenge README
 ------------------------
